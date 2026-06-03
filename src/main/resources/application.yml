@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: urbanroute
+
+server:
+  port: 8080
