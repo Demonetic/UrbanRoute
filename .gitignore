@@ -35,6 +35,8 @@ build/
 
 ### Environment Variables ###
 .env
+.env.*
+!.env.example
 
 ### Logs ###
 logs/
